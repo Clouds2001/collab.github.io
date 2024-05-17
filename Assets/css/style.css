@@ -1,0 +1,71 @@
+
+/* Section container */
+#services {
+    background-color: #333;
+    /* Dark background color */
+    padding: 50px 0;
+    /* Add padding to the top and bottom */
+}
+
+/* Center the content in the section */
+#services .container {
+    max-width: 1200px;
+    /* Limit the width of the container */
+    margin: 0 auto;
+    /* Center the container horizontally */
+}
+
+/* Style the heading */
+#services h2 {
+    color: #fff;
+    /* White text color */
+    font-size: 36px;
+    /* Large font size */
+}
+
+/* Style the paragraph */
+#services p {
+    color: #fff;
+    /* White text color */
+    font-size: 18px;
+    /* Medium font size */
+}
+
+/* Style the card */
+#services .card {
+    background-color: #fff;
+    /* White background color */
+    border-radius: 10px;
+    /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* Shadow effect */
+}
+
+/* Style the card title */
+#services .card-title {
+    color: #333;
+    /* Dark text color */
+    font-size: 24px;
+    /* Large font size */
+}
+
+/* Style the card text */
+#services .card-text {
+    color: #666;
+    /* Medium text color */
+}
+
+/* Style the card button */
+#services .btn-brand {
+    background-color: #007bff;
+    /* Blue button color */
+    color: #fff;
+    /* White text color */
+    border: none;
+    /* Remove border */
+}
+
+#services .btn-brand:hover {
+    background-color: #0056b3;
+    /* Darker blue on hover */
+}
